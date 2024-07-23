@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm bingecoder89</h1>
-<h3 align="center">HTML, CSS & JS Enthusiast | Eager to Contribute as a Front-End Developer</h3>
+<h3 align="center">Aspiring Cloud Computing Specialist | Frontend Developer | Passionate about Cloud Technologies</h3>
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bingecoder89&label=Profile%20views&color=0e75b6&style=flat" alt="bingecoder89" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ankitbal71210" target="blank"><img src="https://img.shields.io/twitter/follow/ankitbal71210?logo=twitter&style=for-the-badge" alt="ankitbal71210" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS & JS**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Front-End**
+- 👯 I’m looking to collaborate on **Cloud Computing Projects**
 
 - 📝 I regularly write articles on [https://dev.to/bingecoder89](https://dev.to/bingecoder89)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Frontend and Cloud Computing **
 
 - 📫 How to reach me **bingecoder89@gmail.com**
 
