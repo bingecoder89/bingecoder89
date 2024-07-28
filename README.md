@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bingecoder89" alt="bingecoder89" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ankitbal71210" target="blank"><img src="https://img.shields.io/twitter/follow/ankitbal71210?logo=twitter&style=for-the-badge" alt="ankitbal71210" /></a> </p>
-
 - 🔭 I’m currently working on [E-commerce website](https://bingecoder89.github.io/ecommerce-product-page/)
 
 - 🌱 I’m currently learning **React**
